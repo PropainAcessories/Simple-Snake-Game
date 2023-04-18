@@ -8,12 +8,19 @@
 
   ## Table of contents
   🐔[Description](#description)
+  
   🐔[Implementation](#implementation)
+  
   🐔[Usage](#usage)
+  
   🐔[License](#license)
+  
   🐔[Contributors](#contributors)
+  
   🐔[Tests](#tests)
+  
   🐔[Support](#support)
+  
 
   ## Implementation
   🐔It is implemented via CLI.
